@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /* 入力される文字カウント：第１版 */
+/* EOFはCtrl+dで入力 */
 int main()
 {
     long nc;
